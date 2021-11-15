@@ -10,7 +10,8 @@
             "User-Agent": "Stremio"
           },
           "response": {
-            "Access-Control-Allow-Origin": "*"
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Private-Network": "true"
           }
         }
       }
