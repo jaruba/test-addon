@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "name": "Test Stream",
+      "title": "Test Stream",
+      "url": "https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4",
+      "behaviorHints": {
+        "proxyHeaders": {
+          "request": {
+            "User-Agent": "Stremio"
+          }
+        }
+      }
+    }
+  ]
+}
