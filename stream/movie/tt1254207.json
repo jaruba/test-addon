@@ -5,6 +5,7 @@
       "title": "Test Stream",
       "url": "https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4",
       "behaviorHints": {
+        "notWebReady": true,
         "proxyHeaders": {
           "request": {
             "User-Agent": "Stremio"
