@@ -7,11 +7,11 @@
         "catalog",
         "stream"
     ],
-    "types": ["movie", "series"], // your add-on will be preferred for those content types
+    "types": ["movie", "series"],
     "catalogs": [
         {
-            type: 'movie',
-            id: 'helloworldmovies'
+            "type": "movie",
+            "id": "helloworldmovies"
         }
     ],
     "idPrefixes": [ "tt" ]
