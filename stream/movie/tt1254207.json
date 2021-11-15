@@ -8,6 +8,9 @@
         "proxyHeaders": {
           "request": {
             "User-Agent": "Stremio"
+          },
+          "response": {
+            "Access-Control-Allow-Origin": "*"
           }
         }
       }
